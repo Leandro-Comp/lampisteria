@@ -108,9 +108,5 @@ Também testei manualmente entrada inválida no menu (texto no lugar de número)
 
 ## Apresentação e demonstração
 
-- [Assistir à apresentação do trabalho no YouTube](https://youtu.be/3M8DGdiyDC0?si=sWQVPHNhADs8pApB)
-
-## Apresentação e demonstração
-
-- [Assistir à apresentação do trabalho no YouTube](SEU_LINK_DO_YOUTUBE_AQUI)
-- [Acessar o repositório no GitHub](SEU_LINK_DO_REPOSITORIO_AQUI)
+- [Assistir à apresentação do trabalho no YouTube](https://youtu.be/3M8DGdiyDC0?si=C3F6GlrW5qUktMHj)
+- [Acessar o repositório no GitHub](https://github.com/Leandro-Comp/lampisteria.git)
