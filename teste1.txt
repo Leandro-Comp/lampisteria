@@ -1,0 +1,70 @@
+1
+102
+Autorresgatador W65
+Autorresgatador
+PAT-0102
+1
+101
+Lanterna de capacete LED
+Lanterna
+PAT-0101
+1
+103
+Lanterna de capacete LED
+Lanterna
+PAT-0103
+1
+101
+Lanterna reserva
+Lanterna
+PAT-0999
+2
+4
+Ana Souza
+2023001
+Lanterna
+Frente Norte - nivel 3
+05/10/2026
+4
+Bruno Lima
+2023002
+Autorresgatador
+Galeria 7
+05/10/2026
+4
+Carla Mendes
+2023003
+Detector de gas
+Galeria 7
+05/10/2026
+5
+6
+6
+6
+2
+2
+7
+103
+8
+102
+4
+Bruno Lima
+2023002
+Autorresgatador
+Galeria 7
+05/10/2026
+7
+101
+8
+103
+7
+150
+9
+3
+9
+3
+5
+10
+11
+0
+n
