@@ -105,3 +105,7 @@ Também testei manualmente entrada inválida no menu (texto no lugar de número)
 - Salvar sobrescreve os arquivos `.bin` anteriores. Salvar com o sistema vazio apaga os dados gravados antes.
 - Os textos têm tamanho máximo fixo e o que passar do limite é cortado.
 - Os campos de texto não são validados quanto ao conteúdo (por exemplo, o formato da data e campos vazios).
+
+## Apresentação e demonstração
+
+- [Assistir à apresentação do trabalho no YouTube](https://youtu.be/3M8DGdiyDC0?si=sWQVPHNhADs8pApB)
